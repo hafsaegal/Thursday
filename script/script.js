@@ -14,3 +14,19 @@ console.log(deleted);
 console.log(fruits);
 fruits.splice(1,1)
 console.log(fruits)
+
+//iteration methods
+
+const nums= [1,2,3,4,5]
+
+//for loop
+for (let i =0, i<nums.length; i++) { 
+  const element = nums [i];...0,1,2,3,4,5
+  console.log(element)...c 1,2,3,4,5
+}
+
+let count 0;
+
+while (count<5){
+  console.log
+}
